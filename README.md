@@ -1,6 +1,4 @@
-# Project Title
 Covid19 Flash News
-One Paragraph of project description goes here
 Une animation de vidèo ( durant la pandémie, chaque jour, 1mn Max ) avec un son de fond avec des données du covid19 (Données mises à jour, cas infectés, guéris, sous-traitement, et cas par régions) 
 
 ## Getting Started
