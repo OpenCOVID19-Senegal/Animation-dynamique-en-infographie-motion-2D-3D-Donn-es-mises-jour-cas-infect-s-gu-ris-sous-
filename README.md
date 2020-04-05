@@ -1,6 +1,7 @@
 # Project Title
-
+Covid19 Flash News
 One Paragraph of project description goes here
+Une animation de vidèo ( durant la pandémie, chaque jour, 1mn Max ) avec un son de fond avec des données du covid19 (Données mises à jour, cas infectés, guéris, sous-traitement, et cas par régions) 
 
 ## Getting Started
 
@@ -53,9 +54,7 @@ Give an example
 ```
 
 ## Deployment
-
-Add additional notes about how to deploy this on a live system
-
+An automation between excel and powerpoint
 ## Built With
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
