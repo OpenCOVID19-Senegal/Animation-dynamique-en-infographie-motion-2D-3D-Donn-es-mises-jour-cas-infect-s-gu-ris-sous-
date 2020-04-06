@@ -1,4 +1,5 @@
 Covid19 Flash News
+
 Une animation de vidèo ( durant la pandémie, chaque jour, 1mn Max ) avec un son de fond avec des données du covid19 (Données mises à jour, cas infectés, guéris, sous-traitement, et cas par régions) 
 
 ## Getting Started
@@ -7,7 +8,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Install Office 365 and Powerpoint 2019
+And Collect data about coovid19 in sn and add to excel for real time updating
 
 ```
 Give examples
